@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.3" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" infinite="0" nextlayerid="5" nextobjectid="26">
+ <tileset firstgid="1" source="mappaprova.tsx"/>
+ <layer id="1" name="backgroud" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztw0ENAAAMA6EzWP92pmI/SFg1VVVVVVVVVVVVVVXVxwcsqaqe
+  </data>
+ </layer>
+ <layer id="2" name="graphics" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt1EsOgjAUheHCzNcy8LExF+I2dF/iOtS5Z6Apg7Zy9SZo83/JSZpSSgu9hAAAAAAAAAAAAAAAQDRrQpgrC2WprJqpVwSgZFiztdRvLfsAUnI1+8/nvpZ9AO9Y6ves8b1ymXrRCb/yH9q3MYBV6ryW+jplrWwK7a2yU66a/6bcQ3ruVztX+8P6t67T0mepX+91HNqYb+ceE+t9ns/+dP7jM6fMda9v4XGmvN792LEPzWAbTg==
+  </data>
+ </layer>
+ <objectgroup id="3" name="ground">
+  <object id="4" x="-1" y="194" width="369" height="13"/>
+  <object id="5" x="193" y="161" width="175" height="30"/>
+  <object id="7" x="241" y="145" width="126" height="14"/>
+  <object id="9" x="288" y="130" width="80" height="13"/>
+  <object id="10" x="415" y="193" width="196" height="15"/>
+  <object id="11" x="672" y="193" width="496" height="14"/>
+  <object id="13" x="993" y="177" width="175" height="14"/>
+  <object id="14" x="1040" y="161" width="128" height="14"/>
+  <object id="15" x="1088" y="145" width="80" height="13"/>
+  <object id="16" x="1216" y="193" width="321" height="14"/>
+  <object id="18" x="1584" y="194" width="1118" height="15"/>
+  <object id="21" x="2753" y="193" width="1088" height="15"/>
+ </objectgroup>
+ <objectgroup id="4" name="spikes">
+  <object id="22" x="369" y="178" width="46" height="29"/>
+  <object id="23" x="610" y="193" width="62" height="15"/>
+  <object id="24" x="1537" y="179" width="47" height="30"/>
+  <object id="25" x="2702" y="194" width="51" height="14"/>
+ </objectgroup>
+</map>

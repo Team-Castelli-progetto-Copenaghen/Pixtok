@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.3" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" infinite="0" nextlayerid="6" nextobjectid="59">
+ <tileset firstgid="1" source="Jungle.tsx"/>
+ <tileset firstgid="545" source="solito.tsx"/>
+ <layer id="1" name="BackGruond" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztlklSg0AUhulwgiQOG3d6FfUEcXavJ4jGaR+OpFdwXHgNdeG88afkFVSHhm4CIVD/V/UVRb/QvE6/R7XnEUIIIYQQQgghpM2s+LG3uL+D9xnj0/AcSQgph2SfvuD+Fb5ljDeRa6zhJpKQNpHs067yvB7sK/N4k3iAj/AJbsDNetMhpBTkPNxW0vqW/Ut0VuFa3Uk4IH0r5+G2kdW37F8iSN82pSb0vh3jHBzM8Cz83omtApu+bcpekXzCOvqAP/AXDlDLW3Ab7sBduAf34YGajK97//VwBI9LyMf1/a7xZN+KQQnzHiq7dXT9WKGMdbr0rVwHqrh5uTV1nir/E1M8LWY7FtZRDy7BZTjE2Ak8hSN4Bs/hBbxUk3GpBb1/bZ8P45/4bnzB7477+13jet/Kddp5r2a8DlM8HJe9yLsOVXHzcpuneZJ7XKVF9zMtZjum1+DYUb0mhLTfBoY5+vhuLMBF3/we07PzYBBpsw5a3x7VnUORnFzyDn/7B0y0cFI=
+  </data>
+ </layer>
+ <objectgroup id="2" name="Ground">
+  <object id="1" x="-3" y="173" width="259" height="34"/>
+  <object id="2" x="899.333" y="149.583" width="92.5833" height="26.5"/>
+  <object id="3" x="929.167" y="132.25" width="62.5" height="17.25"/>
+  <object id="4" x="962.167" y="114.75" width="30" height="17.3333"/>
+  <object id="6" x="1313" y="175.667" width="2526.67" height="31.3333"/>
+  <object id="8" x="194.583" y="147.333" width="61.75" height="25"/>
+  <object id="9" x="224.333" y="130.5" width="32" height="16"/>
+  <object id="10" x="289" y="176" width="173.667" height="32"/>
+  <object id="11" x="512" y="176.667" width="750.667" height="32"/>
+  <object id="15" x="1771.25" y="166" width="197.417" height="9.41667"/>
+  <object id="17" x="1800.33" y="151.667" width="168" height="14"/>
+  <object id="24" x="1832" y="135.667" width="136.333" height="15"/>
+  <object id="25" x="1864.33" y="117.667" width="103.667" height="17.3333"/>
+  <object id="26" x="1897.67" y="100.333" width="70.3333" height="16.3333"/>
+  <object id="33" x="1056" y="68" width="40.5" height="39.75"/>
+  <object id="34" x="1152.5" y="68.5" width="40.75" height="39.75"/>
+ </objectgroup>
+ <objectgroup id="3" name="Spikes">
+  <object id="7" x="1263.25" y="190.333" width="49" height="17.6667"/>
+  <object id="14" x="1408" y="158.333" width="47.3333" height="18.3333"/>
+  <object id="28" x="1919" y="96" width="48" height="4"/>
+  <object id="30" x="3776" y="158" width="33" height="17"/>
+  <object id="35" x="463.667" y="190.333" width="48" height="17.3333"/>
+ </objectgroup>
+ <objectgroup id="4" name="Victory">
+  <object id="32" x="3811.25" y="144.75" width="29" height="25"/>
+ </objectgroup>
+ <objectgroup id="5" name="Jump">
+  <object id="38" x="898.5" y="150.167" height="25.6667"/>
+  <object id="39" x="928.417" y="132.083" width="3.87468e-14" height="16.75"/>
+  <object id="40" x="961.167" y="116.917" height="15"/>
+  <object id="46" x="193.75" y="147.417" height="25.6667"/>
+  <object id="51" x="1770.75" y="166.417" height="9.1667"/>
+  <object id="52" x="1799.75" y="152.167" height="13.6667"/>
+  <object id="53" x="1831.25" y="135.917" height="15.4167"/>
+  <object id="50" x="1407.25" y="159.667" height="16.1667"/>
+  <object id="49" x="1310.5" y="177.917" width="1.5" height="11.6667"/>
+  <object id="48" x="510" y="176.667" width="1.5" height="13.6667"/>
+  <object id="54" x="1864.25" y="117.792" height="17.1667"/>
+  <object id="55" x="1897.75" y="100.292" height="16.6667"/>
+  <object id="56" x="1918.5" y="95.7917" height="3.9167"/>
+  <object id="57" x="256.5" y="130" height="2.75"/>
+  <object id="58" x="224" y="141.875" height="4"/>
+ </objectgroup>
+</map>
